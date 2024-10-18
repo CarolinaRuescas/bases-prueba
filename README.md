@@ -1,5 +1,6 @@
 # bases-prueba
 Esta es la descripción del proyecto
+Puedes ver [mis notas](/directorio/mis-notas.md)
 
 ![La mejor imagen de Linux](perro.jpeg)
 
